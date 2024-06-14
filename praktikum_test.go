@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/HammiAhlan/Backend_Package/model"
-	"github.com/HammiAhlan/Backend_Package/module"
+	"github.com/AditWiBu69/Backend_Package/model"
+	"github.com/AditWiBu69/Backend_Package/module"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
