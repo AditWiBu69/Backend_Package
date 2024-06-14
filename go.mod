@@ -1,4 +1,4 @@
-module github.com/HammiAhlan/Backend_Package
+module github.com/AditWiBu69/Backend_Package
 
 go 1.22.3
 

@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/HammiAhlan/Backend_Package/model"
+	"github.com/AditWiBu69/Backend_Package/model"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
